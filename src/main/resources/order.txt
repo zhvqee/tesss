@@ -1,0 +1,1 @@
+-javaagent:/Users/zhuqi/Documents/workspace/trace-agent/target/trace-agent-1.0-SNAPSHOT.jar=cost
